@@ -16,4 +16,5 @@
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=sln" />
+<img src="https://skillicons.dev/icons?i=chatgpt" />
 </p>
